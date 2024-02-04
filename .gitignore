@@ -22,11 +22,6 @@
 **/yarn-error.log*
 **/debug.log
 
-# Compiled output
-**/*.js
-**/*.css
-**/*.map
-
 # Miscellaneous
 **/.DS_Store
 **/Thumbs.db
